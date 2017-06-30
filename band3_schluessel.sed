@@ -1,0 +1,23 @@
+s/66/E/g
+s/50/I/g
+s/10/N/g
+s/63/T/g
+s/36/S/g
+s/33/W/g
+s/02/C/g
+s/01/H/g
+s/64/L/g
+s/44/U/g
+s/05/P/g
+s/40/O/g
+s/60/A/g
+s/26/F/g
+s/56/V/g
+s/16/R/g
+s/55/M/g
+s/06/B/g
+s/30/D/g
+s/20/G/g
+s/61/Z/g
+s/,//g
+s/ //g
