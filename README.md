@@ -2,7 +2,7 @@
 
 Die Artemis Fowl Bücher enthalten einen verschlüsselten Text.
 Wer Spass am Entschlüsseln solcher Texte hat, findet hier
-den Code in maschinenlesbarer Form.
+den Code in digitaler Form.
 
 Spoileralarm:
 
