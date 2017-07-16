@@ -1,7 +1,7 @@
-s/\(^b \| b \| b$\)/ (N) /g
-s/\(^B \| B \| B$\)/ (NE) /g
+s/\(^b \|b \|b$\)/ (N) /g
+s/\(^B \|B \|B$\)/ (NE) /g
 s/\(^WU\| WU\)/ (ES|SE) /g
-s/\(^wu\| wu\)/ (S) /g
+s/\(^wu\|wu\)/ (S) /g
 s/\(^ei\| ei\)/ (I) /g
 s/\(^EI\| EI\)/ (IE) /g
 s/\(^PR\| PR\)/ (HE) /g
@@ -41,4 +41,8 @@ s/\(^au\| au\)/ (Ä) /g
 s/\(^st\| st\)/ (P) /g
 s/\(^ol\| ol\)/ (J) /g
 s/\(^OL\| OL\)/ (JE) /g
+s/\(^sn\| sn\)/ (X) /g
 s/\(^SN\| SN\)/ (XE) /g
+
+s/\((\|)\)//g
+s/ //g

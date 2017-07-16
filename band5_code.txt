@@ -113,7 +113,7 @@ po EI tu pu ei zo pr
 mo b #36 ae in pr tr wu zo PR ei b pu ei zo pr
 ei #37 wu he
 BL b b
-AE bb
+AE b b
 bl mo
 LE ei b
 TU #38 b wu zo PR b AE WU b
@@ -300,3 +300,170 @@ mo b pr sc li #89 pu ei zo pr
 mo b bl
 ME in zo pr HE
 #90
+BL b
+mo b HE tr wu zo PR EI bl
+po ae #91 ei wu zo PR b
+BL tu
+TR zo pr HE b
+#92
+mo b bl
+bl tu
+pu ei b PI b
+st dr #93 pi pu in he wu zo pr
+
+AE b b
+bl ei #94 tr
+OL tu in b bl
+in mo li
+BL tr
+wu he #95 tr in wu WU
+BL b
+pr ei b HE tr b
+#96
+po mo AE b BL he
+mo b bl
+wu ei zo pr
+#97
+in mo li
+bl EI
+pu ei b PI
+st dr me #98 in zo PI
+pi pu in he wu zo pr he
+#99
+PR ei wu wu he
+bl in wu
+in b
+bl EU #100 WU tu
+in ME b bl
+ei wu he
+un dr pu pu #101 tu dr b bl
+mo b bl
+LE tr
+pr dr li li #102 he
+bl in wu wu
+bl mo
+in b
+BL tr
+#103
+he tr in bl ei he ei dr B pu PU b
+ol in ha #104 bl
+HE ei pu b ei tu tu wu he
+
+AE b b
+#105
+LE tr
+wu ei zo pr
+in mo li
+bl EI
+TR zo #106 pr HE
+st dr me in zo PI
+pi pu in he #107 wu zo pr he
+PR ei wu wu he
+bl in #108 wu
+LE ei b li in zo pr
+b mo tr
+bl in #109 wu wu
+bl mo
+ei pr b
+in b
+WU ei B
+#110
+TR zo pr HE
+st dr me in zo PI
+LE tr ei b #111 B tr wu he
+
+bl mo
+wu EI pr wu he
+#112
+bl in wu
+pi in b b
+ha in b po
+wu zo #113 pr sc b
+pr in in tr ei ha
+WU ei b
+
+#114
+bl tr ei he HE b wu
+mo b bl
+PU he po #115 HE b wu
+pr in pu HE
+bl ei tr
+ME ei #116 tu
+b EI WU b
+b EI tu in pu wu
+bl EI
+#117
+pr in b bl
+un dr tr
+BL b
+tu mo b bl
+
+#118
+bl au tu dr B b au tr po HE
+pr in #119 ME b
+PR tr in mo wu HA li mo b BL b
+#120
+bl in wu wu
+ei b
+OL BL tu
+b EI WU tr
+#121
+tu ei pu pu ei dr B b
+ae ei b po ei HA tr
+#122
+li pu EI HA b BL tr
+bl au tu dr B b
+wu #123 HE zo PI b
+bl EI
+ri ME tr
+bl EI
+LE tr #124 BL
+wu zo pr ae ei tr TR b
+me ei wu
+#125
+wu EI
+LE ei b
+TU b wu zo PR b AE WU b
+#126
+li ei b BL b
+in mo li
+BL tu
+wu EI
+#127
+pu in b BL b
+pi sc b B b
+
+wu dr #128 me in pu bl
+wu EI
+LE ei B wu
+HA li #129 mo b BL b
+pr in ME b
+pr in zo PI b
+#130
+wu EI
+wu ei zo pr
+tu ei he
+ae ei b #131 po ei HA b
+au sn HE b
+ei b
+BL wu #132 WU b
+wu zo pr au BL pu
+mo b bl
+pu sc #133 WU b
+in mo li
+bl EI WU
+AE ei WU
+#134
+li mo tr zo pr he me in TR
+pi dr st li #135 wu zo pr TU tr PO b
+in mo wu
+ae dr #136 bl mo tr zo pr
+bl EI
+TU b wu zo PR b AE #137 WU b
+ei b
+LE ei B tr
+wu zo pr pu in zo #138 pr he
+PU ei zo pr he
+po mo
+ME wu EI #139 HA b
+wu ei b bl
