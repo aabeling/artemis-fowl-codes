@@ -14,7 +14,7 @@ ae ei tr bl
 #10
 pi dr tu TU b
 mo b WU tr
-un d pu pi
+un dr pu pi
 #11
 po mo
 LE tr TR he HE b
@@ -37,7 +37,7 @@ wu HE pr he
 b au tu pu ei zo pr
 in mo #16 zo pr
 bl tr ei b
-pi ins b ei b zo PR b
+pi in b ei b zo PR b
 #17
 ae au TR b
 bl EI
@@ -52,7 +52,7 @@ tu ei he HE pu
 HA HA b
 pr in pu wu AE pr
 #20
-ae AU TR
+ae au TR
 LE ei b
 mo tu wu zo pr pu in ha
 in #21 mo wu
@@ -65,7 +65,7 @@ wu dr zo PI b
 AE tr
 bl in wu
 ha pu #23 in mo me he
-eu wu he
+ei wu he
 WU pu ME tr
 #24
 wu zo pr mo pu bl
@@ -94,7 +94,7 @@ wu ei b bl
 AE b b
 #31
 bl mo
-PO mo tu
+po mo tu
 ME ei wu st EI pu
 LE ei b
 TU #32 b wu zo PR b AE WU b
@@ -108,3 +108,195 @@ bl au tu dr b
 ME HA ha B wu he
 
 #35
+ae in wu
+po EI tu pu ei zo pr
+mo b #36 ae in pr tr wu zo PR ei b pu ei zo pr
+ei #37 wu he
+BL b b
+AE bb
+bl mo
+LE ei b
+TU #38 b wu zo PR b AE WU b
+ae au tr wu he
+#39
+pi sc b b HE wu he
+bl mo
+bl in wu
+#40
+pr EI tr
+ri ME tr pr in mo st he
+b ei zo #41 pr he
+PU WU b
+
+#42
+in ME tr
+tu in b
+AE ei wu wu
+ol in
+#43
+b EI
+
+pr EI tr
+in pu wu dr
+bl EI
+#44
+bl TR ei
+ae ei zo pr he ei ha wu HE b
+#45
+he ei st st wu
+
+LE tr wu HE b wu
+st ei pi #46 wu
+LE ei B b
+bl au tu dr b
+b EI
+tu ei he
+#47
+WU ei B tu
+LE ei HA B b
+wu zo pr AE tr he
+
+#48
+bl in wu
+eiwu he
+bl EI
+wu zo #49 pr pu ei tu tu wu HE
+ME PU ei bl ei #50 ha mo b ha
+mo b bl
+li ri pr tr he
+po mo
+#51
+LE ei B tr
+UN b BL he he in
+bl EI
+ri #52 ME tr
+HA B tr in he ei dr B b
+in b #53 bl in MO tr b
+pi in b b
+
+LE wu
+ei wu #54 he
+un sc pu pu ei ha
+ei b
+dr tr bl #55 b mo b ha
+LE ei B b
+bl au tu dr b
+tu ei he
+#56
+BL ei B tu
+wu zo pr AE tr he
+po mo
+st ei #57 pi WU b
+LE tr
+ae ei tr bl
+bl ei tr
+wu # 58 dr ha in tr
+ha tr in he mo pu EI TR b
+AE b #59 b
+bl mo
+LE wu
+wu zo pr in li li wu #60 he
+in ME tr
+b mo tr
+wu zo pr PU zo #61 pr HE
+pi tr EI HA tr
+UN tr pu EI TR b
+#62
+ei pr tr
+wu zo pr AE tr he
+mo b bl
+#63
+pu in wu WU b
+wu ei zo pr
+bl in b b
+#64
+b dr zo pr
+bl in tu ei he
+st ei pi #65 WU b
+
+li in pu pu wu
+bl EI
+HA PU #66 HA b PR ei he
+wu ei zo pr
+me EI HE b
+#67
+wu dr pu pu HE
+pu in wu wu
+pu EI ME tr
+#68
+bl EI
+li ei b HA tr
+bl in un dr b
+
+#69
+po AE ei HE b wu
+bl EI
+bl au tu dr #70 B b
+UN tr li ri HA b
+ri ME tr
+LE ei B
+#71
+po EI tu pu ei zo pr
+pi dr tu st PU SN
+PO #72 ei zo PR b wu st tr in zo PR
+mo b bl
+#73
+LE ei b
+PO b he tr in PU wu
+LE PU TU b he
+#74
+bl in un dr b
+ei wu he
+bl in wu
+#75
+st dr pi pu in he wu zo PR b
+
+LE wu
+#76
+ei wu he
+WU pr tr
+ae ei zo pr he ei ha
+#77
+b EI tu in pu wu
+in mo li
+bl EI
+li #78 in pu wu zo PR
+st dr me in zo PI
+po mo
+#79
+pi pu in he wu zo PR b
+
+mo b HE tr
+#80
+ha in tr
+PI ei B b
+mo tu wu he au b BL #81 b
+bl in tr li wu he
+bl mo
+OL #82 tu in b bl
+in b BL tr wu
+in mo li
+BL #83 b
+st dr
+pi pu in he wu zo PR b
+LE wu
+#84
+WU ei
+BL b b
+BL tr OL b ei HA
+pr in #85 he
+bl ei zo pr
+tu ei he
+BL ei B tu
+LE ei #86 HA B b
+wu zo pr AE tr he
+HA st ei pi wu #87 he
+bl in wu
+ha ei pu he
+in pu wu
+au #88 mo wu WU tr wu he
+mo b pr sc li #89 pu ei zo pr
+
+mo b bl
+ME in zo pr HE
+#90

@@ -56,6 +56,7 @@ ansonsten kleine
 | Stift | st |
 | (halbes) Olympia-Emblem | ol |
 | leer | le |
+| Schnecke | sn |
 
 Die _Heiligtümer des Todes_ ist das Symbol mit
 Kreis, Dreieck, Strich. Nicht ganz wie bei Potter,
