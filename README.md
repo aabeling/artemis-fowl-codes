@@ -64,3 +64,12 @@ aber es sollte ja auch nur beim Aufschreiben helfen.
 
 Im Code sind Buchstaben durch ein Leerzeichen getrennt,
 in jeder Zeile ein Wort.
+
+# Band 6
+
+Mit den Erfahrungen aus Band 5 hat sich ergeben, für den Kringel
+ein eigenes Zeichen zu definieren, die Welle:
+
+| Symbol | Kürzel |
+| ------ | ------ |
+| Welle  | we     |
