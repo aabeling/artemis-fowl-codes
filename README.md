@@ -9,6 +9,13 @@ Spoileralarm:
 Zusätzlich gibt es den Schlüssel und ein Shell-Script zum
 Anwenden des Schlüssels auf den codierten Text.
 
+# Band 1
+
+Der Code für diesen Band wurde nach Band 6 aufgeschrieben.
+Es passt der selbe Schlüssel und die Symbole aus Band 5.
+Dieser Text hat sich als der bislang längste erwiesen. Bei den anderen
+Bänden wiederholte sich der Code schon eher.
+
 # Band 3
 
 Der Code in Band 3 besteht aus Strichen.
