@@ -27,6 +27,7 @@ s/\(^st\| st\)/ (P) /g
 s/\(^ol\| ol\)/ (J) /g
 s/\(^sn\| sn\)/ (X) /g
 s/\(^kr\| kr\)/ (Y) /g
+s/\(^ka\| ka\)/ (Q) /g
 
 s/\((\|)\)//g
 s/ //g

@@ -80,3 +80,7 @@ ein eigenes Zeichen zu definieren, die Welle:
 | Symbol | Kürzel |
 | ------ | ------ |
 | Welle  | we     |
+
+# Band 7
+
+Wie in Band 6.
