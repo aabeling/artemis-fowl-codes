@@ -84,3 +84,7 @@ ein eigenes Zeichen zu definieren, die Welle:
 # Band 7
 
 Wie in Band 6.
+
+# Band 8
+
+Wie in Band 6.
