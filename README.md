@@ -88,3 +88,5 @@ Wie in Band 6.
 # Band 8
 
 Wie in Band 6.
+
+`band8_reim.txt` ist das Elfengedicht, welches Opal auf Fowl Manor liest.
